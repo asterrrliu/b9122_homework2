@@ -40,10 +40,6 @@ for child_url in child_list:
     except Exception as ex:
         continue 
 
-print(len(child_list))
-print(covid_url)
-print(len(covid_url))
-
 
 
 # Question 1 - 2
